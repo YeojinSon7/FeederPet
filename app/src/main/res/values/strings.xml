@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">피더펫</string>
+    <string name="button1">밥주기</string>
+    <string name="feederpet">피더펫</string>
+    <string name="feed">급식주기</string>
+    <string name="realtime">실시간</string>
+    <string name="reservation">급식 예약</string>
+    <string name="petinfo">펫정보</string>
+    <string name="one">1</string>
+    <string name="info">키우시는 반려동물을 알려주세요</string>
+    <string name="cat">고양이</string>
+    <string name="dog">강아지</string>
+    <string name="next">다음</string>
+    <string name="next2">다음</string>
+    <string name="two">2</string>
+    <string name="info2">반려동물의 이름을 알려주세요</string>
+    <string name="input">입력</string>
+    <string name="bluetooth">블루투스 연결</string>
+    <string name="whatTime">몇 시에 급식을 원하세요?</string>
+    <string name="input_time">시간을 입력하세요</string>
+    <string name="gram">몇 그램을 원하시나요?</string>
+    <string name="input_gram">사료 양을 입력하세요.</string>
+    <string name="reserv">예약</string>
+    <string name="input_gram2">사료 양을 입력하세요</string>
+    <string name="weight">비만확인</string>
+    <string name="weightOk">비만인가 아닌가</string>
+    <string name="pregnantOk">임신인가 아닌가</string>
+    <string name="nursingOk">수유중인가 아닌가</string>
+    <string name="send">보내기</string>
+    <string name="result" />
+    <string name="obsity">비만도</string>
+</resources>
