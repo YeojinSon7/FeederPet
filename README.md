@@ -15,4 +15,12 @@
 <br>
 
 ![최종수정2](https://github.com/YeojinSon7/FeederPet/assets/130967465/867802df-08da-47a6-8c76-f4238f841919)
+
+
+<br>
+
+- 사용자가 버튼을 누르면 작동하는 모습
+<br>
+
+![c7af1170-1005-494a-b300-dbc3c65c7bb2](https://github.com/YeojinSon7/FeederPet/assets/130967465/c413ffe4-d39d-49cc-ab77-c94f4af734f5)
   
