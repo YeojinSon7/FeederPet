@@ -11,7 +11,7 @@
 ![최종수정](https://github.com/YeojinSon7/FeederPet/assets/130967465/6fe5cbfb-a787-4799-a989-49d30e3d6376)
 <br>
 
-- 자동급식기의 사료나오는 입구 모습
+- 자동급식기의 입구 모습
 <br>
 
 ![최종수정2](https://github.com/YeojinSon7/FeederPet/assets/130967465/867802df-08da-47a6-8c76-f4238f841919)
