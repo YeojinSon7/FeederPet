@@ -6,4 +6,10 @@
 
 ## 2. 작동 영상
 - 일정 무게가 될 때까지 자동으로 사료가 나오는 모습
+<br>
+
 ![최종수정](https://github.com/YeojinSon7/FeederPet/assets/130967465/6fe5cbfb-a787-4799-a989-49d30e3d6376)
+<br>
+
+- 자동급식기의 사료나오는 입구 모습
+  
