@@ -4,7 +4,12 @@
 - 이 프로젝트는 3D 프린터를 통해 제품을 개발하고 아두이노를 연결하여 작동시키는 프로젝트입니다.
 - 반려동물 자동급식기를 만들었으며 사용자가 원할 때마다 앱의 버튼을 눌러 사료가 나오게 할 수 있습니다.
 
-## 2. 작동 영상
+## 2. 사용한 기술
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+
+## 3. 작동 영상
 - 일정 무게가 될 때까지 자동으로 사료가 나오는 모습
 <br>
 
