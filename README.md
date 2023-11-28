@@ -7,7 +7,7 @@
 ## 2. 사용한 기술
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/> 
 
 ## 3. 작동 영상
 - 일정 무게가 될 때까지 자동으로 사료가 나오는 모습
